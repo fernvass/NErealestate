@@ -1,0 +1,918 @@
+LSOA11CD,LSOA11NM,WD15CD,WD15NM,WD15NMW,LAD15CD,LAD15NM,FID
+E01008419,Newcastle upon Tyne 006E,E05001112,West Gosforth, ,E08000021,Newcastle upon Tyne,8010
+E01008420,Newcastle upon Tyne 005D,E05001112,West Gosforth, ,E08000021,Newcastle upon Tyne,8013
+E01008421,Newcastle upon Tyne 006F,E05001112,West Gosforth, ,E08000021,Newcastle upon Tyne,8017
+E01008422,Newcastle upon Tyne 005E,E05001095,East Gosforth, ,E08000021,Newcastle upon Tyne,8025
+E01008315,Newcastle upon Tyne 012B,E05001102,North Heaton, ,E08000021,Newcastle upon Tyne,8026
+E01008365,Newcastle upon Tyne 012F,E05001102,North Heaton, ,E08000021,Newcastle upon Tyne,8028
+E01008423,Newcastle upon Tyne 006G,E05001112,West Gosforth, ,E08000021,Newcastle upon Tyne,8031
+E01008316,Newcastle upon Tyne 012C,E05001102,North Heaton, ,E08000021,Newcastle upon Tyne,8033
+E01008366,Newcastle upon Tyne 013A,E05001103,North Jesmond, ,E08000021,Newcastle upon Tyne,8034
+E01008424,Newcastle upon Tyne 005F,E05001095,East Gosforth, ,E08000021,Newcastle upon Tyne,8037
+E01008317,Newcastle upon Tyne 007A,E05001093,Dene, ,E08000021,Newcastle upon Tyne,8039
+E01008367,Newcastle upon Tyne 017A,E05001107,South Jesmond, ,E08000021,Newcastle upon Tyne,8040
+E01008425,Newcastle upon Tyne 030B,E05001108,Walker, ,E08000021,Newcastle upon Tyne,8043
+E01008318,Newcastle upon Tyne 012D,E05001102,North Heaton, ,E08000021,Newcastle upon Tyne,8045
+E01008368,Newcastle upon Tyne 017B,E05001107,South Jesmond, ,E08000021,Newcastle upon Tyne,8046
+E01008426,Newcastle upon Tyne 028C,E05001108,Walker, ,E08000021,Newcastle upon Tyne,8048
+E01008319,Newcastle upon Tyne 007B,E05001093,Dene, ,E08000021,Newcastle upon Tyne,8050
+E01008369,Newcastle upon Tyne 013B,E05001103,North Jesmond, ,E08000021,Newcastle upon Tyne,8051
+E01008427,Newcastle upon Tyne 030C,E05001108,Walker, ,E08000021,Newcastle upon Tyne,8055
+E01008320,Newcastle upon Tyne 007C,E05001093,Dene, ,E08000021,Newcastle upon Tyne,8056
+E01008370,Newcastle upon Tyne 017C,E05001107,South Jesmond, ,E08000021,Newcastle upon Tyne,8059
+E01008428,Newcastle upon Tyne 030D,E05001108,Walker, ,E08000021,Newcastle upon Tyne,8062
+E01008321,Newcastle upon Tyne 007D,E05001093,Dene, ,E08000021,Newcastle upon Tyne,8064
+E01008371,Newcastle upon Tyne 013C,E05001103,North Jesmond, ,E08000021,Newcastle upon Tyne,8065
+E01008429,Newcastle upon Tyne 028D,E05001108,Walker, ,E08000021,Newcastle upon Tyne,8069
+E01008372,Newcastle upon Tyne 013D,E05001103,North Jesmond, ,E08000021,Newcastle upon Tyne,8072
+E01008322,Newcastle upon Tyne 007E,E05001093,Dene, ,E08000021,Newcastle upon Tyne,8073
+E01008430,Newcastle upon Tyne 020A,E05001109,Walkergate, ,E08000021,Newcastle upon Tyne,8077
+E01008323,Newcastle upon Tyne 007F,E05001093,Dene, ,E08000021,Newcastle upon Tyne,8079
+E01008373,Newcastle upon Tyne 013E,E05001103,North Jesmond, ,E08000021,Newcastle upon Tyne,8081
+E01008431,Newcastle upon Tyne 020B,E05001109,Walkergate, ,E08000021,Newcastle upon Tyne,8086
+E01008324,Newcastle upon Tyne 015A,E05001094,Denton, ,E08000021,Newcastle upon Tyne,8087
+E01008374,Newcastle upon Tyne 008B,E05001099,Kenton, ,E08000021,Newcastle upon Tyne,8088
+E01008432,Newcastle upon Tyne 026G,E05001109,Walkergate, ,E08000021,Newcastle upon Tyne,8091
+E01008375,Newcastle upon Tyne 008C,E05001099,Kenton, ,E08000021,Newcastle upon Tyne,8096
+E01008433,Newcastle upon Tyne 020C,E05001109,Walkergate, ,E08000021,Newcastle upon Tyne,8098
+E01008325,Newcastle upon Tyne 015B,E05001094,Denton, ,E08000021,Newcastle upon Tyne,8101
+E01008376,Newcastle upon Tyne 008D,E05001099,Kenton, ,E08000021,Newcastle upon Tyne,8103
+E01008434,Newcastle upon Tyne 020D,E05001109,Walkergate, ,E08000021,Newcastle upon Tyne,8108
+E01008326,Newcastle upon Tyne 015C,E05001094,Denton, ,E08000021,Newcastle upon Tyne,8110
+E01008377,Newcastle upon Tyne 008E,E05001099,Kenton, ,E08000021,Newcastle upon Tyne,8112
+E01008435,Newcastle upon Tyne 020E,E05001109,Walkergate, ,E08000021,Newcastle upon Tyne,8114
+E01008327,Newcastle upon Tyne 015D,E05001094,Denton, ,E08000021,Newcastle upon Tyne,8118
+E01008378,Newcastle upon Tyne 006D,E05001112,West Gosforth, ,E08000021,Newcastle upon Tyne,8119
+E01008436,Newcastle upon Tyne 020F,E05001109,Walkergate, ,E08000021,Newcastle upon Tyne,8122
+E01008328,Newcastle upon Tyne 015E,E05001094,Denton, ,E08000021,Newcastle upon Tyne,8125
+E01008379,Newcastle upon Tyne 008F,E05001099,Kenton, ,E08000021,Newcastle upon Tyne,8126
+E01008437,Newcastle upon Tyne 029F,E05001096,Elswick, ,E08000021,Newcastle upon Tyne,8129
+E01008380,Newcastle upon Tyne 008G,E05001099,Kenton, ,E08000021,Newcastle upon Tyne,8137
+E01008438,Newcastle upon Tyne 029G,E05001096,Elswick, ,E08000021,Newcastle upon Tyne,8138
+E01008329,Newcastle upon Tyne 015F,E05001094,Denton, ,E08000021,Newcastle upon Tyne,8139
+E01008381,Newcastle upon Tyne 021A,E05001100,Lemington, ,E08000021,Newcastle upon Tyne,8144
+E01008439,Newcastle upon Tyne 024E,E05001111,Westgate, ,E08000021,Newcastle upon Tyne,8147
+E01008382,Newcastle upon Tyne 021B,E05001100,Lemington, ,E08000021,Newcastle upon Tyne,8150
+E01008330,Newcastle upon Tyne 015G,E05001094,Denton, ,E08000021,Newcastle upon Tyne,8152
+E01008441,Newcastle upon Tyne 031A,E05001110,Westerhope, ,E08000021,Newcastle upon Tyne,8153
+E01008383,Newcastle upon Tyne 021C,E05001100,Lemington, ,E08000021,Newcastle upon Tyne,8158
+E01008331,Newcastle upon Tyne 029A,E05001096,Elswick, ,E08000021,Newcastle upon Tyne,8161
+E01008442,Newcastle upon Tyne 031B,E05001110,Westerhope, ,E08000021,Newcastle upon Tyne,8162
+E01008384,Newcastle upon Tyne 021D,E05001100,Lemington, ,E08000021,Newcastle upon Tyne,8165
+E01008332,Newcastle upon Tyne 029B,E05001096,Elswick, ,E08000021,Newcastle upon Tyne,8168
+E01008443,Newcastle upon Tyne 014G,E05001101,Newburn, ,E08000021,Newcastle upon Tyne,8171
+E01008288,Newcastle upon Tyne 027A,E05001089,Benwell and Scotswood, ,E08000021,Newcastle upon Tyne,8172
+E01008333,Newcastle upon Tyne 029C,E05001096,Elswick, ,E08000021,Newcastle upon Tyne,8174
+E01008385,Newcastle upon Tyne 021E,E05001100,Lemington, ,E08000021,Newcastle upon Tyne,8176
+E01008444,Newcastle upon Tyne 031C,E05001110,Westerhope, ,E08000021,Newcastle upon Tyne,8177
+E01008289,Newcastle upon Tyne 027B,E05001089,Benwell and Scotswood, ,E08000021,Newcastle upon Tyne,8179
+E01008334,Newcastle upon Tyne 029D,E05001096,Elswick, ,E08000021,Newcastle upon Tyne,8183
+E01008386,Newcastle upon Tyne 021F,E05001100,Lemington, ,E08000021,Newcastle upon Tyne,8184
+E01008445,Newcastle upon Tyne 031D,E05001110,Westerhope, ,E08000021,Newcastle upon Tyne,8186
+E01008290,Newcastle upon Tyne 027C,E05001089,Benwell and Scotswood, ,E08000021,Newcastle upon Tyne,8187
+E01008387,Newcastle upon Tyne 021G,E05001100,Lemington, ,E08000021,Newcastle upon Tyne,8191
+E01008335,Newcastle upon Tyne 029E,E05001096,Elswick, ,E08000021,Newcastle upon Tyne,8193
+E01008446,Newcastle upon Tyne 031E,E05001110,Westerhope, ,E08000021,Newcastle upon Tyne,8194
+E01008388,Newcastle upon Tyne 028A,E05001091,Byker, ,E08000021,Newcastle upon Tyne,8197
+E01008336,Newcastle upon Tyne 003A,E05001097,Fawdon, ,E08000021,Newcastle upon Tyne,8199
+E01008291,Newcastle upon Tyne 027D,E05001089,Benwell and Scotswood, ,E08000021,Newcastle upon Tyne,8200
+E01008447,Newcastle upon Tyne 031F,E05001110,Westerhope, ,E08000021,Newcastle upon Tyne,8202
+E01008389,Newcastle upon Tyne 028B,E05001108,Walker, ,E08000021,Newcastle upon Tyne,8204
+E01008292,Newcastle upon Tyne 027E,E05001089,Benwell and Scotswood, ,E08000021,Newcastle upon Tyne,8206
+E01008337,Newcastle upon Tyne 003B,E05001097,Fawdon, ,E08000021,Newcastle upon Tyne,8208
+E01008448,Newcastle upon Tyne 031G,E05001110,Westerhope, ,E08000021,Newcastle upon Tyne,8210
+E01008390,Newcastle upon Tyne 030A,E05001108,Walker, ,E08000021,Newcastle upon Tyne,8213
+E01008449,Newcastle upon Tyne 022D,E05001113,Wingrove, ,E08000021,Newcastle upon Tyne,8214
+E01008293,Newcastle upon Tyne 004A,E05001114,Woolsington, ,E08000021,Newcastle upon Tyne,8216
+E01008338,Newcastle upon Tyne 003C,E05001097,Fawdon, ,E08000021,Newcastle upon Tyne,8218
+E01008391,Newcastle upon Tyne 026E,E05001091,Byker, ,E08000021,Newcastle upon Tyne,8220
+E01008450,Newcastle upon Tyne 016B,E05001090,Blakelaw, ,E08000021,Newcastle upon Tyne,8222
+E01008392,Newcastle upon Tyne 026F,E05001091,Byker, ,E08000021,Newcastle upon Tyne,8225
+E01008451,Newcastle upon Tyne 016C,E05001090,Blakelaw, ,E08000021,Newcastle upon Tyne,8227
+E01008294,Newcastle upon Tyne 001A,E05001092,Castle, ,E08000021,Newcastle upon Tyne,8228
+E01008339,Newcastle upon Tyne 003D,E05001097,Fawdon, ,E08000021,Newcastle upon Tyne,8230
+E01008394,Newcastle upon Tyne 024A,E05001111,Westgate, ,E08000021,Newcastle upon Tyne,8233
+E01008295,Newcastle upon Tyne 008A,E05001099,Kenton, ,E08000021,Newcastle upon Tyne,8235
+E01008452,Newcastle upon Tyne 016D,E05001090,Blakelaw, ,E08000021,Newcastle upon Tyne,8237
+E01008340,Newcastle upon Tyne 003E,E05001097,Fawdon, ,E08000021,Newcastle upon Tyne,8238
+E01008296,Newcastle upon Tyne 011A,E05001090,Blakelaw, ,E08000021,Newcastle upon Tyne,8241
+E01008395,Newcastle upon Tyne 024B,E05001111,Westgate, ,E08000021,Newcastle upon Tyne,8243
+E01008341,Newcastle upon Tyne 003F,E05001097,Fawdon, ,E08000021,Newcastle upon Tyne,8244
+E01008453,Newcastle upon Tyne 022E,E05001113,Wingrove, ,E08000021,Newcastle upon Tyne,8246
+E01008396,Newcastle upon Tyne 022B,E05001111,Westgate, ,E08000021,Newcastle upon Tyne,8250
+E01008342,Newcastle upon Tyne 003G,E05001097,Fawdon, ,E08000021,Newcastle upon Tyne,8251
+E01008297,Newcastle upon Tyne 011B,E05001090,Blakelaw, ,E08000021,Newcastle upon Tyne,8252
+E01008455,Newcastle upon Tyne 022G,E05001113,Wingrove, ,E08000021,Newcastle upon Tyne,8253
+E01008298,Newcastle upon Tyne 011C,E05001090,Blakelaw, ,E08000021,Newcastle upon Tyne,8258
+E01008397,Newcastle upon Tyne 024C,E05001107,South Jesmond, ,E08000021,Newcastle upon Tyne,8259
+E01008456,Newcastle upon Tyne 004B,E05001114,Woolsington, ,E08000021,Newcastle upon Tyne,8260
+E01008343,Newcastle upon Tyne 019A,E05001098,Fenham, ,E08000021,Newcastle upon Tyne,8262
+E01008457,Newcastle upon Tyne 004C,E05001114,Woolsington, ,E08000021,Newcastle upon Tyne,8265
+E01008299,Newcastle upon Tyne 011D,E05001090,Blakelaw, ,E08000021,Newcastle upon Tyne,8267
+E01008398,Newcastle upon Tyne 022C,E05001113,Wingrove, ,E08000021,Newcastle upon Tyne,8269
+E01008458,Newcastle upon Tyne 004D,E05001114,Woolsington, ,E08000021,Newcastle upon Tyne,8272
+E01008300,Newcastle upon Tyne 016A,E05001090,Blakelaw, ,E08000021,Newcastle upon Tyne,8273
+E01008344,Newcastle upon Tyne 019B,E05001098,Fenham, ,E08000021,Newcastle upon Tyne,8275
+E01008399,Newcastle upon Tyne 024D,E05001111,Westgate, ,E08000021,Newcastle upon Tyne,8279
+E01008301,Newcastle upon Tyne 026A,E05001091,Byker, ,E08000021,Newcastle upon Tyne,8281
+E01008459,Newcastle upon Tyne 004E,E05001114,Woolsington, ,E08000021,Newcastle upon Tyne,8282
+E01008345,Newcastle upon Tyne 019C,E05001098,Fenham, ,E08000021,Newcastle upon Tyne,8283
+E01008400,Newcastle upon Tyne 014A,E05001101,Newburn, ,E08000021,Newcastle upon Tyne,8286
+E01008302,Newcastle upon Tyne 026B,E05001091,Byker, ,E08000021,Newcastle upon Tyne,8289
+E01008460,Newcastle upon Tyne 004F,E05001114,Woolsington, ,E08000021,Newcastle upon Tyne,8290
+E01008346,Newcastle upon Tyne 019D,E05001098,Fenham, ,E08000021,Newcastle upon Tyne,8293
+E01008401,Newcastle upon Tyne 014B,E05001101,Newburn, ,E08000021,Newcastle upon Tyne,8296
+E01008303,Newcastle upon Tyne 018A,E05001106,South Heaton, ,E08000021,Newcastle upon Tyne,8300
+E01008402,Newcastle upon Tyne 014C,E05001101,Newburn, ,E08000021,Newcastle upon Tyne,8301
+E01008347,Newcastle upon Tyne 019E,E05001098,Fenham, ,E08000021,Newcastle upon Tyne,8304
+E01008304,Newcastle upon Tyne 026C,E05001091,Byker, ,E08000021,Newcastle upon Tyne,8308
+E01008403,Newcastle upon Tyne 014D,E05001101,Newburn, ,E08000021,Newcastle upon Tyne,8310
+E01008348,Newcastle upon Tyne 019F,E05001098,Fenham, ,E08000021,Newcastle upon Tyne,8311
+E01008305,Newcastle upon Tyne 026D,E05001091,Byker, ,E08000021,Newcastle upon Tyne,8316
+E01008404,Newcastle upon Tyne 014E,E05001101,Newburn, ,E08000021,Newcastle upon Tyne,8318
+E01008349,Newcastle upon Tyne 019G,E05001113,Wingrove, ,E08000021,Newcastle upon Tyne,8319
+E01008405,Newcastle upon Tyne 014F,E05001101,Newburn, ,E08000021,Newcastle upon Tyne,8323
+E01008306,Newcastle upon Tyne 001B,E05001092,Castle, ,E08000021,Newcastle upon Tyne,8325
+E01008350,Newcastle upon Tyne 019H,E05001098,Fenham, ,E08000021,Newcastle upon Tyne,8326
+E01008406,Newcastle upon Tyne 023A,E05001104,Ouseburn, ,E08000021,Newcastle upon Tyne,8330
+E01008307,Newcastle upon Tyne 001C,E05001092,Castle, ,E08000021,Newcastle upon Tyne,8331
+E01008351,Newcastle upon Tyne 005A,E05001095,East Gosforth, ,E08000021,Newcastle upon Tyne,8333
+E01008308,Newcastle upon Tyne 001D,E05001092,Castle, ,E08000021,Newcastle upon Tyne,8337
+E01008407,Newcastle upon Tyne 023B,E05001104,Ouseburn, ,E08000021,Newcastle upon Tyne,8339
+E01008352,Newcastle upon Tyne 002C,E05001105,Parklands, ,E08000021,Newcastle upon Tyne,8342
+E01008309,Newcastle upon Tyne 002A,E05001105,Parklands, ,E08000021,Newcastle upon Tyne,8343
+E01008409,Newcastle upon Tyne 017D,E05001107,South Jesmond, ,E08000021,Newcastle upon Tyne,8345
+E01008353,Newcastle upon Tyne 006A,E05001112,West Gosforth, ,E08000021,Newcastle upon Tyne,8347
+E01008410,Newcastle upon Tyne 023D,E05001104,Ouseburn, ,E08000021,Newcastle upon Tyne,8350
+E01008311,Newcastle upon Tyne 001E,E05001092,Castle, ,E08000021,Newcastle upon Tyne,8353
+E01008354,Newcastle upon Tyne 005B,E05001095,East Gosforth, ,E08000021,Newcastle upon Tyne,8356
+E01008312,Newcastle upon Tyne 001F,E05001092,Castle, ,E08000021,Newcastle upon Tyne,8357
+E01008411,Newcastle upon Tyne 017E,E05001107,South Jesmond, ,E08000021,Newcastle upon Tyne,8359
+E01008355,Newcastle upon Tyne 006B,E05001112,West Gosforth, ,E08000021,Newcastle upon Tyne,8362
+E01008412,Newcastle upon Tyne 023E,E05001104,Ouseburn, ,E08000021,Newcastle upon Tyne,8364
+E01008313,Newcastle upon Tyne 001G,E05001092,Castle, ,E08000021,Newcastle upon Tyne,8366
+E01008356,Newcastle upon Tyne 006C,E05001112,West Gosforth, ,E08000021,Newcastle upon Tyne,8367
+E01008413,Newcastle upon Tyne 023F,E05001104,Ouseburn, ,E08000021,Newcastle upon Tyne,8369
+E01008314,Newcastle upon Tyne 012A,E05001102,North Heaton, ,E08000021,Newcastle upon Tyne,8371
+E01008357,Newcastle upon Tyne 002D,E05001105,Parklands, ,E08000021,Newcastle upon Tyne,8372
+E01008415,Newcastle upon Tyne 025B,E05001089,Benwell and Scotswood, ,E08000021,Newcastle upon Tyne,8374
+E01008358,Newcastle upon Tyne 002E,E05001105,Parklands, ,E08000021,Newcastle upon Tyne,8376
+E01008416,Newcastle upon Tyne 025C,E05001089,Benwell and Scotswood, ,E08000021,Newcastle upon Tyne,8377
+E01008359,Newcastle upon Tyne 018B,E05001106,South Heaton, ,E08000021,Newcastle upon Tyne,8380
+E01008418,Newcastle upon Tyne 005C,E05001095,East Gosforth, ,E08000021,Newcastle upon Tyne,8382
+E01008360,Newcastle upon Tyne 018C,E05001106,South Heaton, ,E08000021,Newcastle upon Tyne,8385
+E01008361,Newcastle upon Tyne 018D,E05001106,South Heaton, ,E08000021,Newcastle upon Tyne,8387
+E01008362,Newcastle upon Tyne 018E,E05001106,South Heaton, ,E08000021,Newcastle upon Tyne,8390
+E01008363,Newcastle upon Tyne 012E,E05001102,North Heaton, ,E08000021,Newcastle upon Tyne,8399
+E01008364,Newcastle upon Tyne 018F,E05001106,South Heaton, ,E08000021,Newcastle upon Tyne,8400
+E01033543,Newcastle upon Tyne 024G,E05001111,Westgate, ,E08000021,Newcastle upon Tyne,32659
+E01033545,Newcastle upon Tyne 024H,E05001111,Westgate, ,E08000021,Newcastle upon Tyne,32666
+E01033547,Newcastle upon Tyne 025E,E05001089,Benwell and Scotswood, ,E08000021,Newcastle upon Tyne,32674
+E01033548,Newcastle upon Tyne 023G,E05001104,Ouseburn, ,E08000021,Newcastle upon Tyne,32681
+E01033550,Newcastle upon Tyne 002F,E05001105,Parklands, ,E08000021,Newcastle upon Tyne,32687
+E01033551,Newcastle upon Tyne 002G,E05001105,Parklands, ,E08000021,Newcastle upon Tyne,32699
+E01033553,Newcastle upon Tyne 023H,E05001104,Ouseburn, ,E08000021,Newcastle upon Tyne,32707
+E01033554,Newcastle upon Tyne 024I,E05001111,Westgate, ,E08000021,Newcastle upon Tyne,32717
+E01033556,Newcastle upon Tyne 022H,E05001113,Wingrove, ,E08000021,Newcastle upon Tyne,32725
+E01020716,County Durham 026E,E05009055,Deerness, ,E06000047,County Durham,20001
+E01020717,County Durham 022B,E05009064,Framwellgate and Newton Hall, ,E06000047,County Durham,20003
+E01020718,County Durham 022C,E05009064,Framwellgate and Newton Hall, ,E06000047,County Durham,20006
+E01020719,County Durham 022D,E05009064,Framwellgate and Newton Hall, ,E06000047,County Durham,20007
+E01020615,County Durham 005B,E05009073,Pelton, ,E06000047,County Durham,20009
+E01020720,County Durham 023D,E05009064,Framwellgate and Newton Hall, ,E06000047,County Durham,20010
+E01020616,County Durham 005C,E05009073,Pelton, ,E06000047,County Durham,20012
+E01020721,County Durham 022E,E05009064,Framwellgate and Newton Hall, ,E06000047,County Durham,20013
+E01020822,County Durham 052B,E05009063,Ferryhill, ,E06000047,County Durham,20015
+E01020617,County Durham 005D,E05009073,Pelton, ,E06000047,County Durham,20016
+E01020722,County Durham 029B,E05009036,Belmont, ,E06000047,County Durham,20017
+E01020823,County Durham 052C,E05009082,Spennymoor, ,E06000047,County Durham,20019
+E01020618,County Durham 011F,E05009046,Chester-le-Street West Central, ,E06000047,County Durham,20020
+E01020723,County Durham 029C,E05009036,Belmont, ,E06000047,County Durham,20022
+E01020824,County Durham 063A,E05009033,Aycliffe West, ,E06000047,County Durham,20023
+E01020768,County Durham 036D,E05009065,Horden, ,E06000047,County Durham,20025
+E01020619,County Durham 019C,E05009076,Sacriston, ,E06000047,County Durham,20026
+E01020724,County Durham 029D,E05009036,Belmont, ,E06000047,County Durham,20028
+E01020825,County Durham 062A,E05009031,Aycliffe East, ,E06000047,County Durham,20030
+E01020769,County Durham 037B,E05009075,Peterlee West, ,E06000047,County Durham,20031
+E01020665,County Durham 020C,E05009066,Lanchester, ,E06000047,County Durham,20032
+E01020620,County Durham 019D,E05009076,Sacriston, ,E06000047,County Durham,20033
+E01020872,County Durham 056C,E05009038,Bishop Auckland Town, ,E06000047,County Durham,20035
+E01020725,County Durham 027A,E05009079,Sherburn, ,E06000047,County Durham,20036
+E01020770,County Durham 035D,E05009075,Peterlee West, ,E06000047,County Durham,20038
+E01020826,County Durham 063B,E05009031,Aycliffe East, ,E06000047,County Durham,20039
+E01020666,County Durham 020D,E05009066,Lanchester, ,E06000047,County Durham,20040
+E01020621,County Durham 019E,E05009076,Sacriston, ,E06000047,County Durham,20041
+E01020726,County Durham 027B,E05009079,Sherburn, ,E06000047,County Durham,20043
+E01020873,County Durham 051A,E05009050,Coundon, ,E06000047,County Durham,20044
+E01020771,County Durham 035E,E05009075,Peterlee West, ,E06000047,County Durham,20046
+E01020622,County Durham 002C,E05009073,Pelton, ,E06000047,County Durham,20047
+E01020827,County Durham 048E,E05009086,Trimdon and Thornley, ,E06000047,County Durham,20048
+E01020667,County Durham 010F,E05009067,Leadgate and Medomsley, ,E06000047,County Durham,20049
+E01020727,County Durham 027C,E05009079,Sherburn, ,E06000047,County Durham,20051
+E01020874,County Durham 055C,E05009050,Coundon, ,E06000047,County Durham,20052
+E01020772,County Durham 043A,E05009040,Blackhalls, ,E06000047,County Durham,20053
+E01020623,County Durham 002D,E05009073,Pelton, ,E06000047,County Durham,20055
+E01020668,County Durham 012D,E05009067,Leadgate and Medomsley, ,E06000047,County Durham,20057
+E01020828,County Durham 054B,E05009078,Sedgefield, ,E06000047,County Durham,20058
+E01020729,County Durham 027D,E05009079,Sherburn, ,E06000047,County Durham,20059
+E01020875,County Durham 051B,E05009050,Coundon, ,E06000047,County Durham,20060
+E01020773,County Durham 018E,E05009069,Murton, ,E06000047,County Durham,20061
+E01020669,County Durham 012E,E05009067,Leadgate and Medomsley, ,E06000047,County Durham,20064
+E01020624,County Durham 009A,E05009030,Annfield Plain, ,E06000047,County Durham,20065
+E01020829,County Durham 054C,E05009078,Sedgefield, ,E06000047,County Durham,20066
+E01020730,County Durham 027E,E05009079,Sherburn, ,E06000047,County Durham,20067
+E01020876,County Durham 045A,E05009053,Crook, ,E06000047,County Durham,20068
+E01020775,County Durham 018F,E05009069,Murton, ,E06000047,County Durham,20070
+E01020625,County Durham 009B,E05009030,Annfield Plain, ,E06000047,County Durham,20071
+E01020830,County Durham 054D,E05009078,Sedgefield, ,E06000047,County Durham,20073
+E01020670,County Durham 009C,E05009052,Craghead and South Moor, ,E06000047,County Durham,20074
+E01020731,County Durham 027F,E05009079,Sherburn, ,E06000047,County Durham,20075
+E01020877,County Durham 046A,E05009053,Crook, ,E06000047,County Durham,20077
+E01020626,County Durham 006A,E05009030,Annfield Plain, ,E06000047,County Durham,20078
+E01020776,County Durham 021C,E05009069,Murton, ,E06000047,County Durham,20079
+E01020831,County Durham 062B,E05009031,Aycliffe East, ,E06000047,County Durham,20080
+E01020671,County Durham 009D,E05009052,Craghead and South Moor, ,E06000047,County Durham,20082
+E01020732,County Durham 041D,E05009058,Durham South, ,E06000047,County Durham,20083
+E01020878,County Durham 045B,E05009053,Crook, ,E06000047,County Durham,20085
+E01020627,County Durham 003A,E05009037,Benfieldside, ,E06000047,County Durham,20086
+E01020672,County Durham 009E,E05009052,Craghead and South Moor, ,E06000047,County Durham,20087
+E01020832,County Durham 063C,E05009031,Aycliffe East, ,E06000047,County Durham,20088
+E01020777,County Durham 037C,E05009072,Passfield, ,E06000047,County Durham,20089
+E01020733,County Durham 035A,E05009075,Peterlee West, ,E06000047,County Durham,20091
+E01020879,County Durham 046B,E05009053,Crook, ,E06000047,County Durham,20093
+E01020628,County Durham 003B,E05009037,Benfieldside, ,E06000047,County Durham,20094
+E01020833,County Durham 062C,E05009031,Aycliffe East, ,E06000047,County Durham,20095
+E01020673,County Durham 008D,E05009083,Stanley, ,E06000047,County Durham,20096
+E01020778,County Durham 037D,E05009072,Passfield, ,E06000047,County Durham,20097
+E01020734,County Durham 035B,E05009075,Peterlee West, ,E06000047,County Durham,20099
+E01020880,County Durham 055D,E05009080,Shildon and Dene Valley, ,E06000047,County Durham,20101
+E01020629,County Durham 003C,E05009037,Benfieldside, ,E06000047,County Durham,20102
+E01020674,County Durham 004D,E05009083,Stanley, ,E06000047,County Durham,20103
+E01020834,County Durham 062D,E05009031,Aycliffe East, ,E06000047,County Durham,20104
+E01020735,County Durham 035C,E05009075,Peterlee West, ,E06000047,County Durham,20105
+E01020779,County Durham 037E,E05009072,Passfield, ,E06000047,County Durham,20107
+E01020881,County Durham 055E,E05009080,Shildon and Dene Valley, ,E06000047,County Durham,20109
+E01020630,County Durham 014A,E05009037,Benfieldside, ,E06000047,County Durham,20110
+E01020675,County Durham 008E,E05009083,Stanley, ,E06000047,County Durham,20111
+E01020835,County Durham 052D,E05009082,Spennymoor, ,E06000047,County Durham,20112
+E01020736,County Durham 039A,E05009040,Blackhalls, ,E06000047,County Durham,20113
+E01020780,County Durham 035F,E05009075,Peterlee West, ,E06000047,County Durham,20115
+E01020882,County Durham 057A,E05009089,West Auckland, ,E06000047,County Durham,20117
+E01020631,County Durham 014B,E05009037,Benfieldside, ,E06000047,County Durham,20118
+E01020676,County Durham 001E,E05009084,Tanfield, ,E06000047,County Durham,20119
+E01020836,County Durham 052E,E05009082,Spennymoor, ,E06000047,County Durham,20120
+E01020737,County Durham 039B,E05009040,Blackhalls, ,E06000047,County Durham,20121
+E01020781,County Durham 016B,E05009077,Seaham, ,E06000047,County Durham,20122
+E01020883,County Durham 056D,E05009089,West Auckland, ,E06000047,County Durham,20125
+E01020677,County Durham 006E,E05009084,Tanfield, ,E06000047,County Durham,20126
+E01020632,County Durham 010A,E05009048,Consett North, ,E06000047,County Durham,20127
+E01020837,County Durham 047D,E05009082,Spennymoor, ,E06000047,County Durham,20128
+E01020738,County Durham 039C,E05009040,Blackhalls, ,E06000047,County Durham,20129
+E01020782,County Durham 017D,E05009054,Dawdon, ,E06000047,County Durham,20130
+E01020633,County Durham 020A,E05009066,Lanchester, ,E06000047,County Durham,20133
+E01020884,County Durham 058A,E05009092,Woodhouse Close, ,E06000047,County Durham,20134
+E01020838,County Durham 059C,E05009080,Shildon and Dene Valley, ,E06000047,County Durham,20135
+E01020678,County Durham 004E,E05009084,Tanfield, ,E06000047,County Durham,20136
+E01020739,County Durham 039D,E05009040,Blackhalls, ,E06000047,County Durham,20137
+E01020634,County Durham 001A,E05009042,Burnopfield and Dipton, ,E06000047,County Durham,20140
+E01020783,County Durham 017E,E05009077,Seaham, ,E06000047,County Durham,20141
+E01020885,County Durham 058B,E05009092,Woodhouse Close, ,E06000047,County Durham,20142
+E01020839,County Durham 059D,E05009080,Shildon and Dene Valley, ,E06000047,County Durham,20143
+E01020679,County Durham 026A,E05009055,Deerness, ,E06000047,County Durham,20144
+E01020740,County Durham 017A,E05009054,Dawdon, ,E06000047,County Durham,20145
+E01020784,County Durham 017F,E05009054,Dawdon, ,E06000047,County Durham,20148
+E01020635,County Durham 001B,E05009042,Burnopfield and Dipton, ,E06000047,County Durham,20149
+E01020886,County Durham 056E,E05009092,Woodhouse Close, ,E06000047,County Durham,20150
+E01020680,County Durham 026B,E05009061,Esh and Witton Gilbert, ,E06000047,County Durham,20151
+E01020840,County Durham 059E,E05009080,Shildon and Dene Valley, ,E06000047,County Durham,20152
+E01020741,County Durham 017B,E05009054,Dawdon, ,E06000047,County Durham,20153
+E01020887,County Durham 045C,E05009053,Crook, ,E06000047,County Durham,20155
+E01020841,County Durham 059F,E05009080,Shildon and Dene Valley, ,E06000047,County Durham,20156
+E01020636,County Durham 001C,E05009042,Burnopfield and Dipton, ,E06000047,County Durham,20157
+E01020681,County Durham 026C,E05009061,Esh and Witton Gilbert, ,E06000047,County Durham,20158
+E01020786,County Durham 016D,E05009077,Seaham, ,E06000047,County Durham,20159
+E01020742,County Durham 017C,E05009054,Dawdon, ,E06000047,County Durham,20161
+E01020888,County Durham 057B,E05009090,Willington and Hunwick, ,E06000047,County Durham,20163
+E01020682,County Durham 028A,E05009036,Belmont, ,E06000047,County Durham,20164
+E01020842,County Durham 049D,E05009087,Tudhoe, ,E06000047,County Durham,20166
+E01020787,County Durham 016E,E05009057,Deneside, ,E06000047,County Durham,20167
+E01020637,County Durham 014C,E05009066,Lanchester, ,E06000047,County Durham,20168
+E01020743,County Durham 018A,E05009054,Dawdon, ,E06000047,County Durham,20169
+E01020638,County Durham 006B,E05009030,Annfield Plain, ,E06000047,County Durham,20170
+E01020788,County Durham 040A,E05009086,Trimdon and Thornley, ,E06000047,County Durham,20172
+E01020889,County Durham 042A,E05009088,Weardale, ,E06000047,County Durham,20173
+E01020683,County Durham 028B,E05009036,Belmont, ,E06000047,County Durham,20175
+E01020843,County Durham 047E,E05009087,Tudhoe, ,E06000047,County Durham,20176
+E01020744,County Durham 039E,E05009074,Peterlee East, ,E06000047,County Durham,20177
+E01020639,County Durham 006C,E05009030,Annfield Plain, ,E06000047,County Durham,20179
+E01020789,County Durham 040B,E05009086,Trimdon and Thornley, ,E06000047,County Durham,20180
+E01020890,County Durham 042B,E05009088,Weardale, ,E06000047,County Durham,20181
+E01020684,County Durham 033A,E05009041,Brandon, ,E06000047,County Durham,20183
+E01020844,County Durham 061B,E05009033,Aycliffe West, ,E06000047,County Durham,20184
+E01020745,County Durham 032A,E05009074,Peterlee East, ,E06000047,County Durham,20185
+E01020640,County Durham 010B,E05009056,Delves Lane, ,E06000047,County Durham,20187
+E01020891,County Durham 042C,E05009088,Weardale, ,E06000047,County Durham,20188
+E01020685,County Durham 038A,E05009041,Brandon, ,E06000047,County Durham,20190
+E01020790,County Durham 040C,E05009086,Trimdon and Thornley, ,E06000047,County Durham,20191
+E01020746,County Durham 037A,E05009074,Peterlee East, ,E06000047,County Durham,20192
+E01020845,County Durham 063D,E05009033,Aycliffe West, ,E06000047,County Durham,20193
+E01020686,County Durham 038B,E05009041,Brandon, ,E06000047,County Durham,20195
+E01020641,County Durham 010C,E05009048,Consett North, ,E06000047,County Durham,20196
+E01020791,County Durham 040D,E05009086,Trimdon and Thornley, ,E06000047,County Durham,20197
+E01020892,County Durham 045D,E05009085,Tow Law, ,E06000047,County Durham,20198
+E01020747,County Durham 018B,E05009057,Deneside, ,E06000047,County Durham,20200
+E01020846,County Durham 063E,E05009033,Aycliffe West, ,E06000047,County Durham,20201
+E01020642,County Durham 010D,E05009048,Consett North, ,E06000047,County Durham,20203
+E01020687,County Durham 038C,E05009041,Brandon, ,E06000047,County Durham,20204
+E01020893,County Durham 046C,E05009085,Tow Law, ,E06000047,County Durham,20206
+E01020792,County Durham 040E,E05009086,Trimdon and Thornley, ,E06000047,County Durham,20207
+E01020748,County Durham 018C,E05009057,Deneside, ,E06000047,County Durham,20208
+E01020847,County Durham 061C,E05009033,Aycliffe West, ,E06000047,County Durham,20209
+E01020643,County Durham 010E,E05009048,Consett North, ,E06000047,County Durham,20211
+E01020688,County Durham 038D,E05009041,Brandon, ,E06000047,County Durham,20212
+E01020894,County Durham 045E,E05009085,Tow Law, ,E06000047,County Durham,20213
+E01020749,County Durham 018D,E05009057,Deneside, ,E06000047,County Durham,20215
+E01020848,County Durham 060D,E05009032,Aycliffe North and Middridge, ,E06000047,County Durham,20216
+E01020793,County Durham 043B,E05009091,Wingate, ,E06000047,County Durham,20217
+E01020644,County Durham 014D,E05009049,Consett South, ,E06000047,County Durham,20219
+E01020895,County Durham 057C,E05009089,West Auckland, ,E06000047,County Durham,20220
+E01020689,County Durham 038E,E05009041,Brandon, ,E06000047,County Durham,20221
+E01020794,County Durham 043C,E05009091,Wingate, ,E06000047,County Durham,20222
+E01020849,County Durham 061D,E05009032,Aycliffe North and Middridge, ,E06000047,County Durham,20223
+E01020750,County Durham 016A,E05009057,Deneside, ,E06000047,County Durham,20224
+E01020590,County Durham 015A,E05009068,Lumley, ,E06000047,County Durham,20225
+E01020645,County Durham 014E,E05009049,Consett South, ,E06000047,County Durham,20227
+E01020896,County Durham 057D,E05009089,West Auckland, ,E06000047,County Durham,20228
+E01020690,County Durham 028C,E05009036,Belmont, ,E06000047,County Durham,20229
+E01020591,County Durham 015B,E05009068,Lumley, ,E06000047,County Durham,20230
+E01020850,County Durham 060E,E05009032,Aycliffe North and Middridge, ,E06000047,County Durham,20231
+E01020751,County Durham 025A,E05009059,Easington, ,E06000047,County Durham,20232
+E01020795,County Durham 043D,E05009040,Blackhalls, ,E06000047,County Durham,20233
+E01020646,County Durham 024A,E05009055,Deerness, ,E06000047,County Durham,20235
+E01020897,County Durham 057E,E05009089,West Auckland, ,E06000047,County Durham,20236
+E01020691,County Durham 028D,E05009036,Belmont, ,E06000047,County Durham,20237
+E01020851,County Durham 060F,E05009032,Aycliffe North and Middridge, ,E06000047,County Durham,20238
+E01020752,County Durham 025B,E05009059,Easington, ,E06000047,County Durham,20239
+E01020796,County Durham 054A,E05009039,Bishop Middleham and Cornforth, ,E06000047,County Durham,20240
+E01020592,County Durham 011A,E05009046,Chester-le-Street West Central, ,E06000047,County Durham,20241
+E01020647,County Durham 008A,E05009083,Stanley, ,E06000047,County Durham,20243
+E01020692,County Durham 028E,E05009036,Belmont, ,E06000047,County Durham,20244
+E01020898,County Durham 045F,E05009053,Crook, ,E06000047,County Durham,20245
+E01020753,County Durham 032B,E05009059,Easington, ,E06000047,County Durham,20247
+E01020852,County Durham 066A,E05009034,Barnard Castle East, ,E06000047,County Durham,20248
+E01020593,County Durham 011B,E05009046,Chester-le-Street West Central, ,E06000047,County Durham,20249
+E01020648,County Durham 008B,E05009083,Stanley, ,E06000047,County Durham,20250
+E01020693,County Durham 029A,E05009036,Belmont, ,E06000047,County Durham,20251
+E01020797,County Durham 050A,E05009039,Bishop Middleham and Cornforth, ,E06000047,County Durham,20252
+E01020899,County Durham 046D,E05009053,Crook, ,E06000047,County Durham,20253
+E01020853,County Durham 066B,E05009034,Barnard Castle East, ,E06000047,County Durham,20255
+E01020754,County Durham 025C,E05009059,Easington, ,E06000047,County Durham,20256
+E01020594,County Durham 013A,E05009043,Chester-le-Street East, ,E06000047,County Durham,20257
+E01020649,County Durham 008C,E05009052,Craghead and South Moor, ,E06000047,County Durham,20258
+E01020694,County Durham 041A,E05009051,Coxhoe, ,E06000047,County Durham,20259
+E01020798,County Durham 050B,E05009063,Ferryhill, ,E06000047,County Durham,20260
+E01020900,County Durham 051C,E05009090,Willington and Hunwick, ,E06000047,County Durham,20261
+E01020595,County Durham 013B,E05009043,Chester-le-Street East, ,E06000047,County Durham,20263
+E01020756,County Durham 025D,E05009059,Easington, ,E06000047,County Durham,20264
+E01020854,County Durham 066C,E05009035,Barnard Castle West, ,E06000047,County Durham,20265
+E01020695,County Durham 044A,E05009051,Coxhoe, ,E06000047,County Durham,20266
+E01020650,County Durham 012A,E05009056,Delves Lane, ,E06000047,County Durham,20267
+E01020799,County Durham 050C,E05009063,Ferryhill, ,E06000047,County Durham,20268
+E01020901,County Durham 051D,E05009090,Willington and Hunwick, ,E06000047,County Durham,20269
+E01020757,County Durham 032C,E05009074,Peterlee East, ,E06000047,County Durham,20270
+E01020651,County Durham 012B,E05009056,Delves Lane, ,E06000047,County Durham,20272
+E01020801,County Durham 059A,E05009080,Shildon and Dene Valley, ,E06000047,County Durham,20273
+E01020696,County Durham 041B,E05009051,Coxhoe, ,E06000047,County Durham,20274
+E01020855,County Durham 066D,E05009035,Barnard Castle West, ,E06000047,County Durham,20275
+E01020902,County Durham 051E,E05009090,Willington and Hunwick, ,E06000047,County Durham,20276
+E01020596,County Durham 007A,E05009044,Chester-le-Street North, ,E06000047,County Durham,20277
+E01020758,County Durham 032D,E05009074,Peterlee East, ,E06000047,County Durham,20279
+E01020652,County Durham 012C,E05009056,Delves Lane, ,E06000047,County Durham,20280
+E01020697,County Durham 041C,E05009051,Coxhoe, ,E06000047,County Durham,20281
+E01020802,County Durham 059B,E05009080,Shildon and Dene Valley, ,E06000047,County Durham,20282
+E01020903,County Durham 046E,E05009090,Willington and Hunwick, ,E06000047,County Durham,20283
+E01020597,County Durham 007B,E05009044,Chester-le-Street North, ,E06000047,County Durham,20284
+E01020856,County Durham 064A,E05009062,Evenwood, ,E06000047,County Durham,20285
+E01020698,County Durham 044B,E05009051,Coxhoe, ,E06000047,County Durham,20287
+E01020803,County Durham 053B,E05009047,Chilton, ,E06000047,County Durham,20288
+E01020653,County Durham 006D,E05009042,Burnopfield and Dipton, ,E06000047,County Durham,20289
+E01020759,County Durham 032E,E05009074,Peterlee East, ,E06000047,County Durham,20290
+E01020904,County Durham 046F,E05009090,Willington and Hunwick, ,E06000047,County Durham,20291
+E01020857,County Durham 065A,E05009035,Barnard Castle West, ,E06000047,County Durham,20292
+E01020598,County Durham 007C,E05009071,North Lodge, ,E06000047,County Durham,20293
+E01020699,County Durham 044C,E05009051,Coxhoe, ,E06000047,County Durham,20295
+E01020760,County Durham 034A,E05009081,Shotton and South Hetton, ,E06000047,County Durham,20296
+E01020805,County Durham 053D,E05009047,Chilton, ,E06000047,County Durham,20297
+E01020654,County Durham 001D,E05009042,Burnopfield and Dipton, ,E06000047,County Durham,20298
+E01020858,County Durham 064B,E05009062,Evenwood, ,E06000047,County Durham,20299
+E01020905,County Durham 042D,E05009088,Weardale, ,E06000047,County Durham,20300
+E01020599,County Durham 011C,E05009045,Chester-le-Street South, ,E06000047,County Durham,20301
+E01020700,County Durham 044D,E05009051,Coxhoe, ,E06000047,County Durham,20303
+E01020761,County Durham 034B,E05009081,Shotton and South Hetton, ,E06000047,County Durham,20304
+E01020806,County Durham 049A,E05009063,Ferryhill, ,E06000047,County Durham,20305
+E01020655,County Durham 003D,E05009067,Leadgate and Medomsley, ,E06000047,County Durham,20306
+E01020600,County Durham 013C,E05009045,Chester-le-Street South, ,E06000047,County Durham,20307
+E01020859,County Durham 064C,E05009062,Evenwood, ,E06000047,County Durham,20308
+E01020906,County Durham 042E,E05009088,Weardale, ,E06000047,County Durham,20309
+E01020762,County Durham 034C,E05009081,Shotton and South Hetton, ,E06000047,County Durham,20311
+E01020656,County Durham 003E,E05009067,Leadgate and Medomsley, ,E06000047,County Durham,20312
+E01020807,County Durham 049B,E05009063,Ferryhill, ,E06000047,County Durham,20313
+E01020701,County Durham 044E,E05009051,Coxhoe, ,E06000047,County Durham,20314
+E01020601,County Durham 011D,E05009046,Chester-le-Street West Central, ,E06000047,County Durham,20315
+E01020907,County Durham 058C,E05009092,Woodhouse Close, ,E06000047,County Durham,20316
+E01020860,County Durham 064D,E05009062,Evenwood, ,E06000047,County Durham,20317
+E01020763,County Durham 034D,E05009081,Shotton and South Hetton, ,E06000047,County Durham,20319
+E01020657,County Durham 003F,E05009067,Leadgate and Medomsley, ,E06000047,County Durham,20320
+E01020702,County Durham 033B,E05009070,Neville's Cross, ,E06000047,County Durham,20321
+E01020808,County Durham 050D,E05009063,Ferryhill, ,E06000047,County Durham,20322
+E01020908,County Durham 058D,E05009092,Woodhouse Close, ,E06000047,County Durham,20323
+E01020602,County Durham 011E,E05009046,Chester-le-Street West Central, ,E06000047,County Durham,20324
+E01020861,County Durham 064E,E05009062,Evenwood, ,E06000047,County Durham,20325
+E01020764,County Durham 036A,E05009065,Horden, ,E06000047,County Durham,20327
+E01020703,County Durham 030A,E05009060,Elvet and Gilesgate, ,E06000047,County Durham,20328
+E01020809,County Durham 048A,E05009086,Trimdon and Thornley, ,E06000047,County Durham,20329
+E01020658,County Durham 024B,E05009061,Esh and Witton Gilbert, ,E06000047,County Durham,20330
+E01020909,County Durham 058E,E05009092,Woodhouse Close, ,E06000047,County Durham,20331
+E01020765,County Durham 032F,E05009065,Horden, ,E06000047,County Durham,20332
+E01020862,County Durham 064F,E05009034,Barnard Castle East, ,E06000047,County Durham,20334
+E01020603,County Durham 013D,E05009045,Chester-le-Street South, ,E06000047,County Durham,20335
+E01020810,County Durham 048B,E05009078,Sedgefield, ,E06000047,County Durham,20336
+E01020659,County Durham 024C,E05009061,Esh and Witton Gilbert, ,E06000047,County Durham,20337
+E01020704,County Durham 033C,E05009070,Neville's Cross, ,E06000047,County Durham,20338
+E01020604,County Durham 019A,E05009045,Chester-le-Street South, ,E06000047,County Durham,20341
+E01020863,County Durham 065B,E05009034,Barnard Castle East, ,E06000047,County Durham,20342
+E01020766,County Durham 036B,E05009065,Horden, ,E06000047,County Durham,20343
+E01020811,County Durham 048C,E05009078,Sedgefield, ,E06000047,County Durham,20344
+E01020705,County Durham 031A,E05009055,Deerness, ,E06000047,County Durham,20345
+E01020660,County Durham 024D,E05009061,Esh and Witton Gilbert, ,E06000047,County Durham,20346
+E01020767,County Durham 036C,E05009065,Horden, ,E06000047,County Durham,20348
+E01020864,County Durham 064G,E05009062,Evenwood, ,E06000047,County Durham,20350
+E01020605,County Durham 013E,E05009045,Chester-le-Street South, ,E06000047,County Durham,20351
+E01020812,County Durham 048D,E05009086,Trimdon and Thornley, ,E06000047,County Durham,20352
+E01020706,County Durham 031B,E05009055,Deerness, ,E06000047,County Durham,20353
+E01020661,County Durham 004A,E05009084,Tanfield, ,E06000047,County Durham,20354
+E01020865,County Durham 065C,E05009035,Barnard Castle West, ,E06000047,County Durham,20356
+E01020606,County Durham 005A,E05009073,Pelton, ,E06000047,County Durham,20357
+E01020662,County Durham 004B,E05009084,Tanfield, ,E06000047,County Durham,20358
+E01020813,County Durham 060A,E05009032,Aycliffe North and Middridge, ,E06000047,County Durham,20359
+E01020708,County Durham 023A,E05009064,Framwellgate and Newton Hall, ,E06000047,County Durham,20360
+E01020607,County Durham 019B,E05009076,Sacriston, ,E06000047,County Durham,20362
+E01020866,County Durham 065D,E05009035,Barnard Castle West, ,E06000047,County Durham,20363
+E01020663,County Durham 004C,E05009083,Stanley, ,E06000047,County Durham,20364
+E01020709,County Durham 022A,E05009064,Framwellgate and Newton Hall, ,E06000047,County Durham,20365
+E01020814,County Durham 060B,E05009032,Aycliffe North and Middridge, ,E06000047,County Durham,20366
+E01020608,County Durham 015C,E05009068,Lumley, ,E06000047,County Durham,20368
+E01020867,County Durham 064H,E05009034,Barnard Castle East, ,E06000047,County Durham,20369
+E01020710,County Durham 023B,E05009064,Framwellgate and Newton Hall, ,E06000047,County Durham,20370
+E01020815,County Durham 060C,E05009032,Aycliffe North and Middridge, ,E06000047,County Durham,20371
+E01020664,County Durham 020B,E05009066,Lanchester, ,E06000047,County Durham,20372
+E01020711,County Durham 023C,E05009064,Framwellgate and Newton Hall, ,E06000047,County Durham,20373
+E01020816,County Durham 061A,E05009032,Aycliffe North and Middridge, ,E06000047,County Durham,20374
+E01020868,County Durham 055A,E05009038,Bishop Auckland Town, ,E06000047,County Durham,20375
+E01020609,County Durham 015D,E05009068,Lumley, ,E06000047,County Durham,20377
+E01020610,County Durham 015E,E05009068,Lumley, ,E06000047,County Durham,20378
+E01020869,County Durham 055B,E05009038,Bishop Auckland Town, ,E06000047,County Durham,20379
+E01020712,County Durham 033D,E05009070,Neville's Cross, ,E06000047,County Durham,20381
+E01020817,County Durham 047A,E05009087,Tudhoe, ,E06000047,County Durham,20382
+E01020818,County Durham 047B,E05009087,Tudhoe, ,E06000047,County Durham,20383
+E01020870,County Durham 056A,E05009038,Bishop Auckland Town, ,E06000047,County Durham,20385
+E01020713,County Durham 033E,E05009070,Neville's Cross, ,E06000047,County Durham,20386
+E01020611,County Durham 007D,E05009071,North Lodge, ,E06000047,County Durham,20387
+E01020714,County Durham 026D,E05009055,Deerness, ,E06000047,County Durham,20388
+E01020612,County Durham 007E,E05009071,North Lodge, ,E06000047,County Durham,20389
+E01020871,County Durham 056B,E05009038,Bishop Auckland Town, ,E06000047,County Durham,20390
+E01020819,County Durham 047C,E05009087,Tudhoe, ,E06000047,County Durham,20391
+E01020820,County Durham 049C,E05009087,Tudhoe, ,E06000047,County Durham,20394
+E01020715,County Durham 031C,E05009055,Deerness, ,E06000047,County Durham,20395
+E01020613,County Durham 002A,E05009073,Pelton, ,E06000047,County Durham,20396
+E01020821,County Durham 052A,E05009082,Spennymoor, ,E06000047,County Durham,20398
+E01020614,County Durham 002B,E05009073,Pelton, ,E06000047,County Durham,20399
+E01033221,County Durham 030G,E05009070,Neville's Cross, ,E06000047,County Durham,32016
+E01033161,County Durham 021D,E05009069,Murton, ,E06000047,County Durham,32074
+E01033163,County Durham 016F,E05009077,Seaham, ,E06000047,County Durham,32083
+E01033164,County Durham 030D,E05009060,Elvet and Gilesgate, ,E06000047,County Durham,32089
+E01033195,County Durham 030E,E05009060,Elvet and Gilesgate, ,E06000047,County Durham,32313
+E01033197,County Durham 030F,E05009060,Elvet and Gilesgate, ,E06000047,County Durham,32319
+E01033198,County Durham 021E,E05009069,Murton, ,E06000047,County Durham,32320
+E01033202,County Durham 016G,E05009077,Seaham, ,E06000047,County Durham,32333
+E01033203,County Durham 053E,E05009063,Ferryhill, ,E06000047,County Durham,32338
+E01033205,County Durham 021F,E05009081,Shotton and South Hetton, ,E06000047,County Durham,32344
+E01033206,County Durham 021G,E05009081,Shotton and South Hetton, ,E06000047,County Durham,32346
+E01008776,Sunderland 026B,E05001166,St Chad's, ,E08000024,Sunderland,8401
+E01008777,Sunderland 026C,E05001166,St Chad's, ,E08000024,Sunderland,8402
+E01008778,Sunderland 026D,E05001166,St Chad's, ,E08000024,Sunderland,8403
+E01008779,Sunderland 024C,E05001164,Ryhope, ,E08000024,Sunderland,8404
+E01008780,Sunderland 024D,E05001167,St Michael's, ,E08000024,Sunderland,8405
+E01008781,Sunderland 022B,E05001167,St Michael's, ,E08000024,Sunderland,8407
+E01008833,Sunderland 018D,E05001153,Barnes, ,E08000024,Sunderland,8409
+E01008782,Sunderland 022C,E05001153,Barnes, ,E08000024,Sunderland,8410
+E01008834,Sunderland 013E,E05001167,St Michael's, ,E08000024,Sunderland,8413
+E01008783,Sunderland 022D,E05001167,St Michael's, ,E08000024,Sunderland,8414
+E01008835,Sunderland 022G,E05001161,Millfield, ,E08000024,Sunderland,8416
+E01008784,Sunderland 022E,E05001167,St Michael's, ,E08000024,Sunderland,8418
+E01008836,Sunderland 016F,E05001158,Hendon, ,E08000024,Sunderland,8421
+E01008785,Sunderland 022F,E05001171,Silksworth, ,E08000024,Sunderland,8422
+E01008837,Sunderland 003B,E05001163,Redhill, ,E08000024,Sunderland,8424
+E01008786,Sunderland 006A,E05001168,St Peter's, ,E08000024,Sunderland,8425
+E01008838,Sunderland 003C,E05001163,Redhill, ,E08000024,Sunderland,8428
+E01008787,Sunderland 006B,E05001168,St Peter's, ,E08000024,Sunderland,8429
+E01008839,Sunderland 003D,E05001163,Redhill, ,E08000024,Sunderland,8431
+E01008788,Sunderland 006C,E05001168,St Peter's, ,E08000024,Sunderland,8433
+E01008840,Sunderland 003E,E05001154,Castle, ,E08000024,Sunderland,8436
+E01008789,Sunderland 006D,E05001168,St Peter's, ,E08000024,Sunderland,8437
+E01008726,Sunderland 001D,E05001157,Fulwell, ,E08000024,Sunderland,8439
+E01008790,Sunderland 006E,E05001168,St Peter's, ,E08000024,Sunderland,8441
+E01008841,Sunderland 003F,E05001163,Redhill, ,E08000024,Sunderland,8442
+E01008727,Sunderland 002C,E05001157,Fulwell, ,E08000024,Sunderland,8445
+E01008791,Sunderland 006F,E05001168,St Peter's, ,E08000024,Sunderland,8446
+E01008842,Sunderland 004F,E05001163,Redhill, ,E08000024,Sunderland,8448
+E01008728,Sunderland 002D,E05001168,St Peter's, ,E08000024,Sunderland,8451
+E01008792,Sunderland 002E,E05001168,St Peter's, ,E08000024,Sunderland,8452
+E01008843,Sunderland 019A,E05001173,Washington Central, ,E08000024,Sunderland,8454
+E01008729,Sunderland 021A,E05001169,Sandhill, ,E08000024,Sunderland,8457
+E01008844,Sunderland 019B,E05001173,Washington Central, ,E08000024,Sunderland,8458
+E01008730,Sunderland 021B,E05001165,St Anne's, ,E08000024,Sunderland,8462
+E01008845,Sunderland 017A,E05001173,Washington Central, ,E08000024,Sunderland,8464
+E01008793,Sunderland 030A,E05001170,Shiney Row, ,E08000024,Sunderland,8466
+E01008731,Sunderland 021C,E05001165,St Anne's, ,E08000024,Sunderland,8467
+E01008846,Sunderland 017B,E05001174,Washington East, ,E08000024,Sunderland,8469
+E01008795,Sunderland 030B,E05001170,Shiney Row, ,E08000024,Sunderland,8472
+E01008732,Sunderland 021D,E05001169,Sandhill, ,E08000024,Sunderland,8473
+E01008847,Sunderland 017C,E05001174,Washington East, ,E08000024,Sunderland,8475
+E01008796,Sunderland 032D,E05001155,Copt Hill, ,E08000024,Sunderland,8478
+E01008733,Sunderland 021E,E05001169,Sandhill, ,E08000024,Sunderland,8479
+E01008848,Sunderland 019C,E05001173,Washington Central, ,E08000024,Sunderland,8482
+E01008797,Sunderland 030C,E05001170,Shiney Row, ,E08000024,Sunderland,8484
+E01008734,Sunderland 021F,E05001169,Sandhill, ,E08000024,Sunderland,8485
+E01008849,Sunderland 019D,E05001173,Washington Central, ,E08000024,Sunderland,8488
+E01008799,Sunderland 025A,E05001174,Washington East, ,E08000024,Sunderland,8490
+E01008735,Sunderland 016B,E05001158,Hendon, ,E08000024,Sunderland,8491
+E01008850,Sunderland 017D,E05001174,Washington East, ,E08000024,Sunderland,8493
+E01008800,Sunderland 030D,E05001170,Shiney Row, ,E08000024,Sunderland,8496
+E01008736,Sunderland 016C,E05001158,Hendon, ,E08000024,Sunderland,8497
+E01008851,Sunderland 017E,E05001173,Washington Central, ,E08000024,Sunderland,8500
+E01008801,Sunderland 030E,E05001170,Shiney Row, ,E08000024,Sunderland,8502
+E01008737,Sunderland 016D,E05001158,Hendon, ,E08000024,Sunderland,8504
+E01008852,Sunderland 019E,E05001173,Washington Central, ,E08000024,Sunderland,8506
+E01008693,Sunderland 008A,E05001154,Castle, ,E08000024,Sunderland,8508
+E01008802,Sunderland 029D,E05001171,Silksworth, ,E08000024,Sunderland,8509
+E01008738,Sunderland 016E,E05001158,Hendon, ,E08000024,Sunderland,8511
+E01008853,Sunderland 009A,E05001175,Washington North, ,E08000024,Sunderland,8515
+E01008803,Sunderland 027A,E05001171,Silksworth, ,E08000024,Sunderland,8516
+E01008694,Sunderland 008B,E05001154,Castle, ,E08000024,Sunderland,8517
+E01008739,Sunderland 024A,E05001158,Hendon, ,E08000024,Sunderland,8519
+E01008854,Sunderland 009B,E05001175,Washington North, ,E08000024,Sunderland,8522
+E01008804,Sunderland 027B,E05001156,Doxford, ,E08000024,Sunderland,8524
+E01008695,Sunderland 008C,E05001154,Castle, ,E08000024,Sunderland,8525
+E01008740,Sunderland 022A,E05001167,St Michael's, ,E08000024,Sunderland,8527
+E01008855,Sunderland 007A,E05001175,Washington North, ,E08000024,Sunderland,8531
+E01008805,Sunderland 027C,E05001171,Silksworth, ,E08000024,Sunderland,8532
+E01008696,Sunderland 008D,E05001154,Castle, ,E08000024,Sunderland,8533
+E01008741,Sunderland 024B,E05001164,Ryhope, ,E08000024,Sunderland,8535
+E01008856,Sunderland 007B,E05001175,Washington North, ,E08000024,Sunderland,8539
+E01008808,Sunderland 029E,E05001156,Doxford, ,E08000024,Sunderland,8540
+E01008697,Sunderland 008E,E05001154,Castle, ,E08000024,Sunderland,8541
+E01008742,Sunderland 035C,E05001159,Hetton, ,E08000024,Sunderland,8543
+E01008857,Sunderland 009C,E05001175,Washington North, ,E08000024,Sunderland,8547
+E01008809,Sunderland 026E,E05001171,Silksworth, ,E08000024,Sunderland,8548
+E01008698,Sunderland 003A,E05001154,Castle, ,E08000024,Sunderland,8549
+E01008743,Sunderland 036A,E05001159,Hetton, ,E08000024,Sunderland,8551
+E01008858,Sunderland 009D,E05001175,Washington North, ,E08000024,Sunderland,8555
+E01008810,Sunderland 014A,E05001165,St Anne's, ,E08000024,Sunderland,8556
+E01008699,Sunderland 008F,E05001154,Castle, ,E08000024,Sunderland,8557
+E01008744,Sunderland 036B,E05001159,Hetton, ,E08000024,Sunderland,8559
+E01008700,Sunderland 013A,E05001161,Millfield, ,E08000024,Sunderland,8563
+E01008811,Sunderland 014B,E05001165,St Anne's, ,E08000024,Sunderland,8564
+E01008859,Sunderland 009E,E05001175,Washington North, ,E08000024,Sunderland,8565
+E01008745,Sunderland 036C,E05001159,Hetton, ,E08000024,Sunderland,8567
+E01008812,Sunderland 012C,E05001162,Pallion, ,E08000024,Sunderland,8570
+E01008860,Sunderland 009F,E05001175,Washington North, ,E08000024,Sunderland,8572
+E01008701,Sunderland 011A,E05001161,Millfield, ,E08000024,Sunderland,8573
+E01008746,Sunderland 036D,E05001159,Hetton, ,E08000024,Sunderland,8575
+E01008813,Sunderland 014C,E05001165,St Anne's, ,E08000024,Sunderland,8578
+E01008861,Sunderland 025B,E05001174,Washington East, ,E08000024,Sunderland,8579
+E01008702,Sunderland 016A,E05001158,Hendon, ,E08000024,Sunderland,8581
+E01008747,Sunderland 035D,E05001159,Hetton, ,E08000024,Sunderland,8583
+E01008814,Sunderland 014D,E05001165,St Anne's, ,E08000024,Sunderland,8585
+E01008862,Sunderland 025C,E05001174,Washington East, ,E08000024,Sunderland,8586
+E01008703,Sunderland 013B,E05001158,Hendon, ,E08000024,Sunderland,8588
+E01008748,Sunderland 035E,E05001159,Hetton, ,E08000024,Sunderland,8591
+E01008817,Sunderland 004B,E05001172,Southwick, ,E08000024,Sunderland,8593
+E01008863,Sunderland 025D,E05001174,Washington East, ,E08000024,Sunderland,8595
+E01008704,Sunderland 011B,E05001161,Millfield, ,E08000024,Sunderland,8597
+E01008749,Sunderland 034E,E05001160,Houghton, ,E08000024,Sunderland,8598
+E01008864,Sunderland 025E,E05001176,Washington South, ,E08000024,Sunderland,8603
+E01008819,Sunderland 004C,E05001163,Redhill, ,E08000024,Sunderland,8604
+E01008705,Sunderland 013C,E05001161,Millfield, ,E08000024,Sunderland,8605
+E01008750,Sunderland 033A,E05001160,Houghton, ,E08000024,Sunderland,8608
+E01008865,Sunderland 025F,E05001174,Washington East, ,E08000024,Sunderland,8611
+E01008820,Sunderland 005F,E05001172,Southwick, ,E08000024,Sunderland,8612
+E01008706,Sunderland 011C,E05001161,Millfield, ,E08000024,Sunderland,8613
+E01008751,Sunderland 033B,E05001160,Houghton, ,E08000024,Sunderland,8614
+E01008821,Sunderland 004D,E05001163,Redhill, ,E08000024,Sunderland,8618
+E01008866,Sunderland 025G,E05001176,Washington South, ,E08000024,Sunderland,8620
+E01008707,Sunderland 011D,E05001161,Millfield, ,E08000024,Sunderland,8621
+E01008752,Sunderland 033C,E05001160,Houghton, ,E08000024,Sunderland,8624
+E01008822,Sunderland 004E,E05001163,Redhill, ,E08000024,Sunderland,8625
+E01008867,Sunderland 020A,E05001176,Washington South, ,E08000024,Sunderland,8627
+E01008708,Sunderland 005A,E05001172,Southwick, ,E08000024,Sunderland,8629
+E01008753,Sunderland 033D,E05001160,Houghton, ,E08000024,Sunderland,8630
+E01008823,Sunderland 023A,E05001169,Sandhill, ,E08000024,Sunderland,8633
+E01008868,Sunderland 020B,E05001176,Washington South, ,E08000024,Sunderland,8634
+E01008709,Sunderland 005B,E05001172,Southwick, ,E08000024,Sunderland,8637
+E01008754,Sunderland 034F,E05001160,Houghton, ,E08000024,Sunderland,8639
+E01008824,Sunderland 023B,E05001169,Sandhill, ,E08000024,Sunderland,8641
+E01008869,Sunderland 020C,E05001176,Washington South, ,E08000024,Sunderland,8643
+E01008711,Sunderland 005D,E05001172,Southwick, ,E08000024,Sunderland,8645
+E01008755,Sunderland 033E,E05001160,Houghton, ,E08000024,Sunderland,8647
+E01008825,Sunderland 023C,E05001169,Sandhill, ,E08000024,Sunderland,8649
+E01008756,Sunderland 012A,E05001162,Pallion, ,E08000024,Sunderland,8652
+E01008712,Sunderland 004A,E05001172,Southwick, ,E08000024,Sunderland,8653
+E01008870,Sunderland 020D,E05001176,Washington South, ,E08000024,Sunderland,8655
+E01008826,Sunderland 023D,E05001153,Barnes, ,E08000024,Sunderland,8657
+E01008757,Sunderland 015A,E05001162,Pallion, ,E08000024,Sunderland,8660
+E01008713,Sunderland 001A,E05001157,Fulwell, ,E08000024,Sunderland,8661
+E01008871,Sunderland 020E,E05001173,Washington Central, ,E08000024,Sunderland,8663
+E01008714,Sunderland 034A,E05001155,Copt Hill, ,E08000024,Sunderland,8664
+E01008827,Sunderland 023E,E05001171,Silksworth, ,E08000024,Sunderland,8666
+E01008758,Sunderland 015B,E05001162,Pallion, ,E08000024,Sunderland,8667
+E01008872,Sunderland 020F,E05001176,Washington South, ,E08000024,Sunderland,8669
+E01008715,Sunderland 034B,E05001155,Copt Hill, ,E08000024,Sunderland,8670
+E01008828,Sunderland 023F,E05001171,Silksworth, ,E08000024,Sunderland,8671
+E01008759,Sunderland 015C,E05001162,Pallion, ,E08000024,Sunderland,8672
+E01008873,Sunderland 010A,E05001177,Washington West, ,E08000024,Sunderland,8674
+E01008716,Sunderland 034C,E05001155,Copt Hill, ,E08000024,Sunderland,8676
+E01008829,Sunderland 023G,E05001169,Sandhill, ,E08000024,Sunderland,8677
+E01008760,Sunderland 018A,E05001153,Barnes, ,E08000024,Sunderland,8678
+E01008874,Sunderland 010B,E05001177,Washington West, ,E08000024,Sunderland,8680
+E01008717,Sunderland 034D,E05001155,Copt Hill, ,E08000024,Sunderland,8682
+E01008830,Sunderland 018B,E05001153,Barnes, ,E08000024,Sunderland,8683
+E01008761,Sunderland 015D,E05001153,Barnes, ,E08000024,Sunderland,8684
+E01008875,Sunderland 010C,E05001177,Washington West, ,E08000024,Sunderland,8687
+E01008718,Sunderland 035A,E05001155,Copt Hill, ,E08000024,Sunderland,8688
+E01008831,Sunderland 013D,E05001161,Millfield, ,E08000024,Sunderland,8689
+E01008762,Sunderland 012B,E05001162,Pallion, ,E08000024,Sunderland,8690
+E01008876,Sunderland 007C,E05001177,Washington West, ,E08000024,Sunderland,8693
+E01008719,Sunderland 035B,E05001155,Copt Hill, ,E08000024,Sunderland,8694
+E01008832,Sunderland 018C,E05001153,Barnes, ,E08000024,Sunderland,8695
+E01008763,Sunderland 028A,E05001164,Ryhope, ,E08000024,Sunderland,8696
+E01008877,Sunderland 007D,E05001177,Washington West, ,E08000024,Sunderland,8699
+E01008720,Sunderland 032A,E05001155,Copt Hill, ,E08000024,Sunderland,8700
+E01008764,Sunderland 028B,E05001164,Ryhope, ,E08000024,Sunderland,8702
+E01008878,Sunderland 009G,E05001177,Washington West, ,E08000024,Sunderland,8703
+E01008721,Sunderland 032B,E05001160,Houghton, ,E08000024,Sunderland,8705
+E01008879,Sunderland 010D,E05001177,Washington West, ,E08000024,Sunderland,8706
+E01008765,Sunderland 031A,E05001156,Doxford, ,E08000024,Sunderland,8707
+E01008722,Sunderland 001B,E05001157,Fulwell, ,E08000024,Sunderland,8710
+E01008880,Sunderland 010E,E05001177,Washington West, ,E08000024,Sunderland,8711
+E01008766,Sunderland 028C,E05001164,Ryhope, ,E08000024,Sunderland,8713
+E01008723,Sunderland 002A,E05001157,Fulwell, ,E08000024,Sunderland,8714
+E01008724,Sunderland 001C,E05001157,Fulwell, ,E08000024,Sunderland,8717
+E01008767,Sunderland 031B,E05001156,Doxford, ,E08000024,Sunderland,8719
+E01008725,Sunderland 002B,E05001157,Fulwell, ,E08000024,Sunderland,8722
+E01008768,Sunderland 028D,E05001164,Ryhope, ,E08000024,Sunderland,8723
+E01008769,Sunderland 028E,E05001164,Ryhope, ,E08000024,Sunderland,8725
+E01008770,Sunderland 031C,E05001156,Doxford, ,E08000024,Sunderland,8727
+E01008771,Sunderland 031D,E05001156,Doxford, ,E08000024,Sunderland,8729
+E01008772,Sunderland 029A,E05001166,St Chad's, ,E08000024,Sunderland,8731
+E01008773,Sunderland 026A,E05001166,St Chad's, ,E08000024,Sunderland,8733
+E01008774,Sunderland 029B,E05001166,St Chad's, ,E08000024,Sunderland,8735
+E01008775,Sunderland 029C,E05001166,St Chad's, ,E08000024,Sunderland,8738
+E01032483,Sunderland 032F,E05001170,Shiney Row, ,E08000024,Sunderland,31766
+E01032484,Sunderland 032G,E05001170,Shiney Row, ,E08000024,Sunderland,31777
+E01033075,Sunderland 005G,E05001172,Southwick, ,E08000024,Sunderland,32248
+E01033076,Sunderland 012F,E05001162,Pallion, ,E08000024,Sunderland,32256
+E01033077,Sunderland 027F,E05001156,Doxford, ,E08000024,Sunderland,32269
+E01008547,North Tyneside 001A,E05001129,St Mary's, ,E08000022,North Tyneside,8264
+E01008548,North Tyneside 001B,E05001129,St Mary's, ,E08000022,North Tyneside,8270
+E01008549,North Tyneside 001C,E05001129,St Mary's, ,E08000022,North Tyneside,8278
+E01008551,North Tyneside 001D,E05001129,St Mary's, ,E08000022,North Tyneside,8295
+E01008478,North Tyneside 002A,E05001117,Camperdown, ,E08000022,North Tyneside,8116
+E01008480,North Tyneside 002B,E05001117,Camperdown, ,E08000022,North Tyneside,8132
+E01008504,North Tyneside 002C,E05001122,Killingworth, ,E08000022,North Tyneside,8320
+E01008578,North Tyneside 002D,E05001133,Weetslade, ,E08000022,North Tyneside,8023
+E01008583,North Tyneside 002E,E05001133,Weetslade, ,E08000022,North Tyneside,8060
+E01008520,North Tyneside 003A,E05001124,Monkseaton North, ,E08000022,North Tyneside,8395
+E01008523,North Tyneside 003B,E05001124,Monkseaton North, ,E08000022,North Tyneside,8066
+E01008546,North Tyneside 003C,E05001129,St Mary's, ,E08000022,North Tyneside,8255
+E01008550,North Tyneside 003D,E05001124,Monkseaton North, ,E08000022,North Tyneside,8288
+E01008577,North Tyneside 004A,E05001133,Weetslade, ,E08000022,North Tyneside,8021
+E01008579,North Tyneside 004B,E05001133,Weetslade, ,E08000022,North Tyneside,8029
+E01008580,North Tyneside 004C,E05001133,Weetslade, ,E08000022,North Tyneside,8035
+E01008581,North Tyneside 004D,E05001133,Weetslade, ,E08000022,North Tyneside,8041
+E01008582,North Tyneside 004E,E05001133,Weetslade, ,E08000022,North Tyneside,8052
+E01008517,North Tyneside 005A,E05001124,Monkseaton North, ,E08000022,North Tyneside,8389
+E01008519,North Tyneside 005B,E05001124,Monkseaton North, ,E08000022,North Tyneside,8394
+E01008521,North Tyneside 005C,E05001125,Monkseaton South, ,E08000022,North Tyneside,8398
+E01008522,North Tyneside 005D,E05001124,Monkseaton North, ,E08000022,North Tyneside,8057
+E01008584,North Tyneside 006A,E05001134,Whitley Bay, ,E08000022,North Tyneside,8070
+E01008585,North Tyneside 006B,E05001134,Whitley Bay, ,E08000022,North Tyneside,8080
+E01008587,North Tyneside 006C,E05001134,Whitley Bay, ,E08000022,North Tyneside,8095
+E01008588,North Tyneside 006D,E05001134,Whitley Bay, ,E08000022,North Tyneside,8104
+E01008589,North Tyneside 006E,E05001134,Whitley Bay, ,E08000022,North Tyneside,8111
+E01008518,North Tyneside 007A,E05001125,Monkseaton South, ,E08000022,North Tyneside,8392
+E01008564,North Tyneside 007B,E05001129,St Mary's, ,E08000022,North Tyneside,8378
+E01008565,North Tyneside 007C,E05001131,Valley, ,E08000022,North Tyneside,8381
+E01008567,North Tyneside 007D,E05001131,Valley, ,E08000022,North Tyneside,8384
+E01008475,North Tyneside 008A,E05001117,Camperdown, ,E08000022,North Tyneside,8092
+E01008476,North Tyneside 008B,E05001117,Camperdown, ,E08000022,North Tyneside,8099
+E01008477,North Tyneside 008C,E05001117,Camperdown, ,E08000022,North Tyneside,8107
+E01008479,North Tyneside 008D,E05001117,Camperdown, ,E08000022,North Tyneside,8131
+E01008552,North Tyneside 009A,E05001125,Monkseaton South, ,E08000022,North Tyneside,8302
+E01008553,North Tyneside 009B,E05001125,Monkseaton South, ,E08000022,North Tyneside,8309
+E01008554,North Tyneside 009C,E05001125,Monkseaton South, ,E08000022,North Tyneside,8317
+E01008555,North Tyneside 009D,E05001125,Monkseaton South, ,E08000022,North Tyneside,8324
+E01008586,North Tyneside 009E,E05001134,Whitley Bay, ,E08000022,North Tyneside,8089
+E01008495,North Tyneside 010A,E05001120,Cullercoats, ,E08000022,North Tyneside,8254
+E01008496,North Tyneside 010B,E05001120,Cullercoats, ,E08000022,North Tyneside,8261
+E01008497,North Tyneside 010C,E05001120,Cullercoats, ,E08000022,North Tyneside,8268
+E01008498,North Tyneside 010D,E05001120,Cullercoats, ,E08000022,North Tyneside,8276
+E01008568,North Tyneside 011B,E05001131,Valley, ,E08000022,North Tyneside,8388
+E01008569,North Tyneside 011C,E05001131,Valley, ,E08000022,North Tyneside,8391
+E01008570,North Tyneside 011D,E05001131,Valley, ,E08000022,North Tyneside,8393
+E01032647,North Tyneside 011E,E05001131,Valley, ,E08000022,North Tyneside,31735
+E01032648,North Tyneside 011F,E05001131,Valley, ,E08000022,North Tyneside,31742
+E01008500,North Tyneside 012A,E05001116,Benton, ,E08000022,North Tyneside,8292
+E01008505,North Tyneside 012B,E05001122,Killingworth, ,E08000022,North Tyneside,8329
+E01008506,North Tyneside 012C,E05001122,Killingworth, ,E08000022,North Tyneside,8338
+E01008507,North Tyneside 012D,E05001122,Killingworth, ,E08000022,North Tyneside,8346
+E01008493,North Tyneside 013A,E05001120,Cullercoats, ,E08000022,North Tyneside,8231
+E01008494,North Tyneside 013B,E05001120,Cullercoats, ,E08000022,North Tyneside,8239
+E01008556,North Tyneside 013C,E05001119,Collingwood, ,E08000022,North Tyneside,8332
+E01008557,North Tyneside 013D,E05001119,Collingwood, ,E08000022,North Tyneside,8336
+E01008470,North Tyneside 014A,E05001116,Benton, ,E08000022,North Tyneside,8361
+E01008499,North Tyneside 014B,E05001116,Benton, ,E08000022,North Tyneside,8285
+E01008502,North Tyneside 014C,E05001116,Benton, ,E08000022,North Tyneside,8307
+E01008516,North Tyneside 014D,E05001123,Longbenton, ,E08000022,North Tyneside,8386
+E01008488,North Tyneside 015A,E05001119,Collingwood, ,E08000022,North Tyneside,8195
+E01008489,North Tyneside 015B,E05001119,Collingwood, ,E08000022,North Tyneside,8205
+E01008490,North Tyneside 015C,E05001119,Collingwood, ,E08000022,North Tyneside,8212
+E01008491,North Tyneside 015D,E05001119,Collingwood, ,E08000022,North Tyneside,8221
+E01008558,North Tyneside 016A,E05001130,Tynemouth, ,E08000022,North Tyneside,8344
+E01008560,North Tyneside 016B,E05001130,Tynemouth, ,E08000022,North Tyneside,8360
+E01008561,North Tyneside 016C,E05001130,Tynemouth, ,E08000022,North Tyneside,8363
+E01008562,North Tyneside 016D,E05001130,Tynemouth, ,E08000022,North Tyneside,8370
+E01008525,North Tyneside 017A,E05001127,Preston, ,E08000022,North Tyneside,8083
+E01008527,North Tyneside 017B,E05001127,Preston, ,E08000022,North Tyneside,8102
+E01008559,North Tyneside 017C,E05001130,Tynemouth, ,E08000022,North Tyneside,8352
+E01008563,North Tyneside 017D,E05001130,Tynemouth, ,E08000022,North Tyneside,8373
+E01008469,North Tyneside 018A,E05001116,Benton, ,E08000022,North Tyneside,8354
+E01008472,North Tyneside 018B,E05001116,Benton, ,E08000022,North Tyneside,8067
+E01008473,North Tyneside 018C,E05001123,Longbenton, ,E08000022,North Tyneside,8076
+E01008501,North Tyneside 018D,E05001122,Killingworth, ,E08000022,North Tyneside,8299
+E01008503,North Tyneside 018E,E05001122,Killingworth, ,E08000022,North Tyneside,8313
+E01008471,North Tyneside 019A,E05001123,Longbenton, ,E08000022,North Tyneside,8058
+E01008474,North Tyneside 019B,E05001123,Longbenton, ,E08000022,North Tyneside,8084
+E01008513,North Tyneside 019C,E05001123,Longbenton, ,E08000022,North Tyneside,8379
+E01008514,North Tyneside 019D,E05001123,Longbenton, ,E08000022,North Tyneside,8383
+E01032649,North Tyneside 019F,E05001123,Longbenton, ,E08000022,North Tyneside,31755
+E01032650,North Tyneside 019G,E05001123,Longbenton, ,E08000022,North Tyneside,31763
+E01008486,North Tyneside 020A,E05001118,Chirton, ,E08000022,North Tyneside,8181
+E01008487,North Tyneside 020B,E05001119,Collingwood, ,E08000022,North Tyneside,8189
+E01008526,North Tyneside 020C,E05001127,Preston, ,E08000022,North Tyneside,8094
+E01008530,North Tyneside 020D,E05001127,Preston, ,E08000022,North Tyneside,8128
+E01008461,North Tyneside 021A,E05001115,Battle Hill, ,E08000022,North Tyneside,8297
+E01008466,North Tyneside 021B,E05001115,Battle Hill, ,E08000022,North Tyneside,8335
+E01008467,North Tyneside 021C,E05001115,Battle Hill, ,E08000022,North Tyneside,8340
+E01008468,North Tyneside 021D,E05001115,Battle Hill, ,E08000022,North Tyneside,8349
+E01008483,North Tyneside 022A,E05001118,Chirton, ,E08000022,North Tyneside,8157
+E01008524,North Tyneside 022B,E05001128,Riverside, ,E08000022,North Tyneside,8074
+E01008528,North Tyneside 022C,E05001127,Preston, ,E08000022,North Tyneside,8109
+E01008529,North Tyneside 022D,E05001127,Preston, ,E08000022,North Tyneside,8121
+E01008481,North Tyneside 023A,E05001118,Chirton, ,E08000022,North Tyneside,8141
+E01008482,North Tyneside 023B,E05001118,Chirton, ,E08000022,North Tyneside,8149
+E01008484,North Tyneside 023C,E05001118,Chirton, ,E08000022,North Tyneside,8166
+E01008485,North Tyneside 023D,E05001118,Chirton, ,E08000022,North Tyneside,8173
+E01008492,North Tyneside 023E,E05001118,Chirton, ,E08000022,North Tyneside,8223
+E01008462,North Tyneside 024A,E05001115,Battle Hill, ,E08000022,North Tyneside,8305
+E01008463,North Tyneside 024B,E05001115,Battle Hill, ,E08000022,North Tyneside,8315
+E01008464,North Tyneside 024C,E05001115,Battle Hill, ,E08000022,North Tyneside,8322
+E01008465,North Tyneside 024D,E05001115,Battle Hill, ,E08000022,North Tyneside,8327
+E01008531,North Tyneside 025A,E05001126,Northumberland, ,E08000022,North Tyneside,8133
+E01008532,North Tyneside 025B,E05001126,Northumberland, ,E08000022,North Tyneside,8142
+E01008534,North Tyneside 025C,E05001126,Northumberland, ,E08000022,North Tyneside,8159
+E01008538,North Tyneside 025D,E05001126,Northumberland, ,E08000022,North Tyneside,8192
+E01008508,North Tyneside 026A,E05001121,Howdon, ,E08000022,North Tyneside,8351
+E01008509,North Tyneside 026B,E05001121,Howdon, ,E08000022,North Tyneside,8358
+E01008510,North Tyneside 026C,E05001121,Howdon, ,E08000022,North Tyneside,8365
+E01008512,North Tyneside 026D,E05001121,Howdon, ,E08000022,North Tyneside,8375
+E01008539,North Tyneside 027A,E05001128,Riverside, ,E08000022,North Tyneside,8201
+E01008540,North Tyneside 027B,E05001128,Riverside, ,E08000022,North Tyneside,8207
+E01008541,North Tyneside 027C,E05001128,Riverside, ,E08000022,North Tyneside,8215
+E01008544,North Tyneside 027D,E05001128,Riverside, ,E08000022,North Tyneside,8245
+E01008545,North Tyneside 027E,E05001128,Riverside, ,E08000022,North Tyneside,8247
+E01008511,North Tyneside 028A,E05001121,Howdon, ,E08000022,North Tyneside,8368
+E01008542,North Tyneside 028B,E05001128,Riverside, ,E08000022,North Tyneside,8229
+E01008543,North Tyneside 028C,E05001128,Riverside, ,E08000022,North Tyneside,8236
+E01008571,North Tyneside 028D,E05001121,Howdon, ,E08000022,North Tyneside,8396
+E01008572,North Tyneside 029A,E05001132,Wallsend, ,E08000022,North Tyneside,8397
+E01008573,North Tyneside 029B,E05001132,Wallsend, ,E08000022,North Tyneside,8009
+E01008574,North Tyneside 029C,E05001132,Wallsend, ,E08000022,North Tyneside,8012
+E01008576,North Tyneside 029D,E05001121,Howdon, ,E08000022,North Tyneside,8018
+E01008533,North Tyneside 030A,E05001126,Northumberland, ,E08000022,North Tyneside,8151
+E01008535,North Tyneside 030B,E05001126,Northumberland, ,E08000022,North Tyneside,8169
+E01008536,North Tyneside 030C,E05001132,Wallsend, ,E08000022,North Tyneside,8178
+E01008537,North Tyneside 030D,E05001132,Wallsend, ,E08000022,North Tyneside,8185
+E01008575,North Tyneside 030E,E05001132,Wallsend, ,E08000022,North Tyneside,8015
+E01008595,South Tyneside 001A,E05001135,Beacon and Bents, ,E08000023,South Tyneside,8160
+E01008596,South Tyneside 001B,E05001135,Beacon and Bents, ,E08000023,South Tyneside,8167
+E01008597,South Tyneside 001C,E05001145,Horsley Hill, ,E08000023,South Tyneside,8175
+E01008598,South Tyneside 001D,E05001135,Beacon and Bents, ,E08000023,South Tyneside,8182
+E01008599,South Tyneside 001E,E05001135,Beacon and Bents, ,E08000023,South Tyneside,8188
+E01008664,South Tyneside 002A,E05001148,Simonside and Rekendyke, ,E08000023,South Tyneside,8779
+E01008665,South Tyneside 002B,E05001148,Simonside and Rekendyke, ,E08000023,South Tyneside,8780
+E01008666,South Tyneside 002C,E05001148,Simonside and Rekendyke, ,E08000023,South Tyneside,8783
+E01008667,South Tyneside 002D,E05001135,Beacon and Bents, ,E08000023,South Tyneside,8784
+E01008668,South Tyneside 002E,E05001149,Westoe, ,E08000023,South Tyneside,8787
+E01008673,South Tyneside 003A,E05001149,Westoe, ,E08000023,South Tyneside,8796
+E01008675,South Tyneside 003B,E05001149,Westoe, ,E08000023,South Tyneside,8412
+E01008676,South Tyneside 003C,E05001149,Westoe, ,E08000023,South Tyneside,8417
+E01008677,South Tyneside 003D,E05001149,Westoe, ,E08000023,South Tyneside,8420
+E01008678,South Tyneside 003E,E05001150,West Park, ,E08000023,South Tyneside,8423
+E01008647,South Tyneside 004A,E05001145,Horsley Hill, ,E08000023,South Tyneside,8744
+E01008648,South Tyneside 004B,E05001145,Horsley Hill, ,E08000023,South Tyneside,8747
+E01008649,South Tyneside 004C,E05001145,Horsley Hill, ,E08000023,South Tyneside,8748
+E01008651,South Tyneside 004D,E05001145,Horsley Hill, ,E08000023,South Tyneside,8752
+E01008679,South Tyneside 005A,E05001150,West Park, ,E08000023,South Tyneside,8427
+E01008680,South Tyneside 005B,E05001150,West Park, ,E08000023,South Tyneside,8432
+E01008682,South Tyneside 005C,E05001140,Cleadon Park, ,E08000023,South Tyneside,8440
+E01008683,South Tyneside 005D,E05001150,West Park, ,E08000023,South Tyneside,8447
+E01008635,South Tyneside 006A,E05001142,Harton, ,E08000023,South Tyneside,8589
+E01008650,South Tyneside 006B,E05001145,Horsley Hill, ,E08000023,South Tyneside,8751
+E01008674,South Tyneside 006C,E05001149,Westoe, ,E08000023,South Tyneside,8799
+E01008681,South Tyneside 006D,E05001142,Harton, ,E08000023,South Tyneside,8435
+E01008600,South Tyneside 007A,E05001147,Primrose, ,E08000023,South Tyneside,8196
+E01008604,South Tyneside 007B,E05001147,Primrose, ,E08000023,South Tyneside,8224
+E01008660,South Tyneside 007C,E05001147,Primrose, ,E08000023,South Tyneside,8771
+E01008661,South Tyneside 007D,E05001147,Primrose, ,E08000023,South Tyneside,8772
+E01008633,South Tyneside 008A,E05001142,Harton, ,E08000023,South Tyneside,8569
+E01008634,South Tyneside 008B,E05001142,Harton, ,E08000023,South Tyneside,8577
+E01008636,South Tyneside 008C,E05001142,Harton, ,E08000023,South Tyneside,8596
+E01008637,South Tyneside 008D,E05001142,Harton, ,E08000023,South Tyneside,8602
+E01008639,South Tyneside 009A,E05001143,Hebburn North, ,E08000023,South Tyneside,8619
+E01008652,South Tyneside 009B,E05001143,Hebburn North, ,E08000023,South Tyneside,8755
+E01008653,South Tyneside 009C,E05001143,Hebburn North, ,E08000023,South Tyneside,8756
+E01008654,South Tyneside 009D,E05001146,Monkton, ,E08000023,South Tyneside,8759
+E01008655,South Tyneside 009E,E05001146,Monkton, ,E08000023,South Tyneside,8760
+E01008657,South Tyneside 009F,E05001146,Monkton, ,E08000023,South Tyneside,8764
+E01008638,South Tyneside 010A,E05001143,Hebburn North, ,E08000023,South Tyneside,8609
+E01008640,South Tyneside 010B,E05001143,Hebburn North, ,E08000023,South Tyneside,8626
+E01008641,South Tyneside 010C,E05001144,Hebburn South, ,E08000023,South Tyneside,8636
+E01008642,South Tyneside 010D,E05001144,Hebburn South, ,E08000023,South Tyneside,8642
+E01008590,South Tyneside 011A,E05001137,Biddick and All Saints, ,E08000023,South Tyneside,8117
+E01008591,South Tyneside 011B,E05001150,West Park, ,E08000023,South Tyneside,8124
+E01008592,South Tyneside 011C,E05001150,West Park, ,E08000023,South Tyneside,8135
+E01008594,South Tyneside 011D,E05001152,Whiteleas, ,E08000023,South Tyneside,8154
+E01008601,South Tyneside 012A,E05001136,Bede, ,E08000023,South Tyneside,8203
+E01008669,South Tyneside 012B,E05001148,Simonside and Rekendyke, ,E08000023,South Tyneside,8788
+E01008671,South Tyneside 012C,E05001148,Simonside and Rekendyke, ,E08000023,South Tyneside,8792
+E01008672,South Tyneside 012D,E05001148,Simonside and Rekendyke, ,E08000023,South Tyneside,8795
+E01008622,South Tyneside 013A,E05001140,Cleadon Park, ,E08000023,South Tyneside,8355
+E01008625,South Tyneside 013C,E05001140,Cleadon Park, ,E08000023,South Tyneside,8512
+E01033074,South Tyneside 013E,E05001140,Cleadon Park, ,E08000023,South Tyneside,32241
+E01008602,South Tyneside 014A,E05001136,Bede, ,E08000023,South Tyneside,8211
+E01008603,South Tyneside 014B,E05001136,Bede, ,E08000023,South Tyneside,8217
+E01008608,South Tyneside 014C,E05001136,Bede, ,E08000023,South Tyneside,8256
+E01008670,South Tyneside 014D,E05001148,Simonside and Rekendyke, ,E08000023,South Tyneside,8791
+E01008643,South Tyneside 015A,E05001144,Hebburn South, ,E08000023,South Tyneside,8650
+E01008644,South Tyneside 015B,E05001144,Hebburn South, ,E08000023,South Tyneside,8658
+E01008645,South Tyneside 015C,E05001144,Hebburn South, ,E08000023,South Tyneside,8740
+E01008646,South Tyneside 015D,E05001144,Hebburn South, ,E08000023,South Tyneside,8743
+E01008656,South Tyneside 015E,E05001146,Monkton, ,E08000023,South Tyneside,8763
+E01008658,South Tyneside 015F,E05001146,Monkton, ,E08000023,South Tyneside,8767
+E01008593,South Tyneside 016A,E05001137,Biddick and All Saints, ,E08000023,South Tyneside,8145
+E01008605,South Tyneside 016B,E05001137,Biddick and All Saints, ,E08000023,South Tyneside,8232
+E01008606,South Tyneside 016C,E05001137,Biddick and All Saints, ,E08000023,South Tyneside,8240
+E01008607,South Tyneside 016D,E05001137,Biddick and All Saints, ,E08000023,South Tyneside,8248
+E01008609,South Tyneside 016E,E05001137,Biddick and All Saints, ,E08000023,South Tyneside,8263
+E01008631,South Tyneside 017A,E05001141,Fellgate and Hedworth, ,E08000023,South Tyneside,8553
+E01008632,South Tyneside 017B,E05001141,Fellgate and Hedworth, ,E08000023,South Tyneside,8562
+E01008659,South Tyneside 017C,E05001147,Primrose, ,E08000023,South Tyneside,8768
+E01008662,South Tyneside 017D,E05001147,Primrose, ,E08000023,South Tyneside,8775
+E01008663,South Tyneside 017E,E05001147,Primrose, ,E08000023,South Tyneside,8776
+E01008624,South Tyneside 018A,E05001151,Whitburn and Marsden, ,E08000023,South Tyneside,8503
+E01008684,South Tyneside 018B,E05001151,Whitburn and Marsden, ,E08000023,South Tyneside,8453
+E01008685,South Tyneside 018C,E05001151,Whitburn and Marsden, ,E08000023,South Tyneside,8460
+E01008686,South Tyneside 018D,E05001151,Whitburn and Marsden, ,E08000023,South Tyneside,8465
+E01008687,South Tyneside 018E,E05001151,Whitburn and Marsden, ,E08000023,South Tyneside,8471
+E01008688,South Tyneside 019A,E05001152,Whiteleas, ,E08000023,South Tyneside,8477
+E01008689,South Tyneside 019B,E05001152,Whiteleas, ,E08000023,South Tyneside,8483
+E01008690,South Tyneside 019C,E05001152,Whiteleas, ,E08000023,South Tyneside,8489
+E01008691,South Tyneside 019D,E05001152,Whiteleas, ,E08000023,South Tyneside,8495
+E01008692,South Tyneside 019E,E05001152,Whiteleas, ,E08000023,South Tyneside,8501
+E01008627,South Tyneside 020A,E05001141,Fellgate and Hedworth, ,E08000023,South Tyneside,8520
+E01008628,South Tyneside 020B,E05001141,Fellgate and Hedworth, ,E08000023,South Tyneside,8528
+E01008629,South Tyneside 020C,E05001141,Fellgate and Hedworth, ,E08000023,South Tyneside,8537
+E01008630,South Tyneside 020D,E05001141,Fellgate and Hedworth, ,E08000023,South Tyneside,8546
+E01008610,South Tyneside 021A,E05001138,Boldon Colliery, ,E08000023,South Tyneside,8271
+E01008611,South Tyneside 021B,E05001138,Boldon Colliery, ,E08000023,South Tyneside,8277
+E01008612,South Tyneside 021C,E05001138,Boldon Colliery, ,E08000023,South Tyneside,8284
+E01008613,South Tyneside 021D,E05001138,Boldon Colliery, ,E08000023,South Tyneside,8291
+E01008616,South Tyneside 022A,E05001139,Cleadon and East Boldon, ,E08000023,South Tyneside,8314
+E01008618,South Tyneside 022B,E05001139,Cleadon and East Boldon, ,E08000023,South Tyneside,8328
+E01008619,South Tyneside 022C,E05001139,Cleadon and East Boldon, ,E08000023,South Tyneside,8334
+E01008621,South Tyneside 022D,E05001139,Cleadon and East Boldon, ,E08000023,South Tyneside,8348
+E01008614,South Tyneside 023A,E05001138,Boldon Colliery, ,E08000023,South Tyneside,8298
+E01008615,South Tyneside 023B,E05001138,Boldon Colliery, ,E08000023,South Tyneside,8306
+E01008617,South Tyneside 023C,E05001139,Cleadon and East Boldon, ,E08000023,South Tyneside,8321
+E01008620,South Tyneside 023D,E05001139,Cleadon and East Boldon, ,E08000023,South Tyneside,8341
